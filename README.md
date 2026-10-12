@@ -92,3 +92,5 @@ VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your-anon-key
 ```
 Even without setting up cloud credentials, SmartPark runs 100% locally out-of-the-box with realistic mock data, persistent localStorage, and CCTV simulation!
+
+# Smart_parking-system
